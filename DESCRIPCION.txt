@@ -1,0 +1,36 @@
+ACLARACION: Realmente estoy muy contento con todo lo aprendido en este curso , antes habia hecho el curso de talento tech pero era mas de front y no habiamos visto mucho de java, estoy muy feliz. Aplique los conceptos vistos en clase y ademas me ayude con internet para resolver algunas cuestiones como validaciones y el manejo de try catch.
+
+Lenguaje: Java 17
+Paradigmas: POO (Herencia, Polimorfismo, Encapsulamiento)
+Colecciones: ArrayList, List
+IDE: IntelliJ IDEA
+Estructura de paquetes especificadas en la consigna.
+
+Funcionalidades implementadas
+
+Gestión de Productos
+Agregar productos de tres tipos:
+Genericos
+Bebidas 
+Comidas 
+Listar todos los productos registrados
+Buscar producto por ID o nombre
+Actualizar precio y stock
+Eliminar producto con confirmacion
+
+Gestión de Pedidos
+Crear pedidos con multiples productos
+Verificacion de stock disponible
+Descuento automatico de stock al confirmar el pedido
+Calculo de total de cada pedido
+Visualizaciopn de todos los pedidos realizados
+
+Conceptos aplicados
+
+POO: Clases con atributos privados, getters/setters, constructores y metodoss.
+Herencia: Bebida y Comida heredan de Producto.
+Polimorfismo: List<Producto> puede contener cualquier subclase.
+Excepciones: Manejo de errores con try/catch, NumberFormatException y excepcion personalizada StockInsuficienteException (aca utilice informacion de internet).
+Colecciones: Uso de ArrayList para almacenar productos y pedidos.
+
+
